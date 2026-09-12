@@ -67,4 +67,4 @@ All preprocessing parameters are fitted using training data only. Temperature sc
 
 If you use this repository, please cite the accompanying paper:
 
-> *Sean Dhanda. 2026. Characterizing Model-Specific Confidence–Accuracy Decoupling Under Controlled Feature Corruption. CSSRC 2026.
+> Sean Dhanda. 2026. Characterizing Model-Specific Confidence–Accuracy Decoupling Under Controlled Feature Corruption. CSSRC 2026.
