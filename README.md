@@ -1,4 +1,4 @@
-# Characterizing Model-Specific Confidence–Accuracy Decoupling Under Controlled Feature Corruption
+# Characterizing Model-Specific Confidence-Accuracy Decoupling Under Controlled Feature Corruption
 
 This repository contains the complete reproducible experiment and generated results for the research paper published in CSSRC 2026.
 
