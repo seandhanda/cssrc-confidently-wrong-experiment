@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+results/*.csv
+results/*.json
+figures/*.png
+figures/*.pdf
+!results/.gitkeep
+!figures/.gitkeep
+
